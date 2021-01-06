@@ -37,7 +37,7 @@ Press "Apply"
 
 Create user for Database: press "Users and Privileges" --> "Add Account"
 Login name: online_store_user
-Password: PFCTsikhanovich32!
+Password: ############
 Authentication Type: Standard
 Limit to Hosts Matching: localhost
 Press "Apply"
